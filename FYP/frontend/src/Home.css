@@ -1,0 +1,41 @@
+.hlable1{
+color:white;
+}
+.hinputimg{
+border-radius: 2px;
+        border: 2px solid #73AD21;
+        height:22px;
+}
+.hinputsel{
+height:30px;
+border-radius: 2px;
+        border: 2px solid #73AD21;
+        width:50%;
+}
+.hbg{
+ background-color: #282c34;
+}
+
+.hinputtype{
+        width:50%;
+        border-radius: 5px;
+        border: 2px solid #73AD21;
+
+}
+.h3info{
+         color:#F1C40F;
+         text-align: center;
+         font-size:22px;
+}
+.hdivreg{
+
+         padding-left:10%;
+
+}
+
+.hdivreg h3 {
+    margin: 0 20px 0 0;
+    font-size: 15px;
+    min-width: 200px;
+
+}

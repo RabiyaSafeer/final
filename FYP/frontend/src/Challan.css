@@ -1,0 +1,75 @@
+
+ .div{
+     margin:6px;
+     width:1000px;
+     padding:10px 5px 5px 5px;
+     border:2px solid black;
+     float:left;
+     width:320px;
+     font-size:8px;
+     font-family:Arial, Helvetica, sans-serif;
+     }
+.disChallanMenu{
+display:none;
+}
+.paid_unpaid{
+font-size:20px;
+border:0px;
+
+}
+ .table{
+ align:center;
+  cellspacing:1;
+   width:90% ;
+   border:1;
+ }
+.msg{
+color:red;
+align:center;
+font-size:20px;
+}
+.input_field{
+font-size:9px;
+border:0px;
+width:22% ;
+}
+.input_fieldName{
+font-size:10px;
+border:0px;
+width:40% ;
+}
+ .td1{
+ padding-left:4px;
+ padding-right:4px;
+ padding:2px;
+ border:1px solid black;
+  font-size:8px;
+   font-family:Arial, Helvetica, sans-serif;
+ }
+
+ .td2{
+ text-align:center;
+ border:1px solid black ;
+ font-size:8px;
+ font-family:Arial, Helvetica, sans-serif;
+ }
+
+ .td3{
+ padding-left:4px;
+ padding-right:4px;
+ border:1px solid black ;
+ }
+
+ .td4{
+ text-align:center;
+ border:1px solid black ;
+ }
+
+ .td5{
+ padding-left:4px;
+ padding-right:4px;
+ padding:2px;
+ border:1px solid black;
+ font-size:8px;
+  font-family:Arial, Helvetica, sans-serif;
+ }

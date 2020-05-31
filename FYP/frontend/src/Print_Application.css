@@ -1,0 +1,68 @@
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    color:black solid;
+    background-color: white;
+}
+.header
+{
+    padding-top: 8%;
+    padding-left:5%;
+    display:grid;
+    grid-template-columns: 40% 60%;
+    width:80%;
+    margin:0px 0px 0px 0px;
+}
+.logo img{
+    width: 30%;
+}
+.title{
+    font-size: x-large;
+}
+#custom-button{
+    padding:10px;
+    float:right;
+    margin-top: 5%;
+    margin-right: 5%;
+	color:white;
+	background-color:#009578;
+	border:1px solid #000;
+	border-radius: 5px;
+	cursor:pointer;
+}
+#custom-button:hover{
+	background-color: #00b28f;
+}
+table{
+    width:100%;
+}
+table tr td{
+    width:50%;
+}
+.h3back{
+    background-color: rgb(200, 197, 197);
+}
+.print{
+    width:80%;
+    float:left;
+
+}
+.data
+{
+    width: 80%;
+    padding-left: 5%;
+    margin:0px;
+    margin-right: 5%;
+    width:80%;
+
+}
+.image{
+    width:10%;
+    float:right;
+    border :1px solid black;
+    height: 10%;
+}
+.image .picture{
+    float:left;
+    height: 100px;
+    border:1px solid black;
+}

@@ -1,0 +1,83 @@
+.App {
+
+}
+
+.container1{
+        width:100%;
+
+}
+.divlogin{
+
+ text-align: center;
+}
+.divsignup{
+
+         text-align: center;
+
+}
+
+.pinfo{
+        color:#022926;
+         padding-left:20%;
+}
+.h3info{
+         color:#F1C40F;
+         text-align: center;
+         font-size:22px;
+}
+.App-logo{
+         height: 40vmin;
+         pointer-events: none;
+}
+.inputtype{
+        width:50%;
+        border-radius: 10px;
+        border: 2px solid #73AD21;
+}
+
+.aforget{
+
+        color:#f30808;
+        font-size:20px;
+}
+.button{
+        background-color:#26525E;
+        width:150px;
+        font-size:20px;
+        border-radius: 10px;
+        border: 2px solid #26525E;
+}
+.divsignup,
+.divlogin {
+    padding: 20px 0;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
